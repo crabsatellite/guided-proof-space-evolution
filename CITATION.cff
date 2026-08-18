@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this paper or formalization, please cite this repository and the manuscript."
+title: "Guided Proof-Space Evolution: Finite Proof Radius and Completeness-Preserving Resource Allocation for AI-Assisted Mathematics"
+type: software
+authors:
+  - family-names: Li
+    given-names: Alex Chengyu
+    email: cl7076@nyu.edu
+version: 1.0.0
+date-released: 2026-08-18
+repository-code: "https://github.com/crabsatellite/guided-proof-space-evolution"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Li
+      given-names: Alex Chengyu
+  title: "Guided Proof-Space Evolution: Finite Proof Radius and Completeness-Preserving Resource Allocation for AI-Assisted Mathematics"
+  year: 2026

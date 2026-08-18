@@ -1,0 +1,23 @@
+import ProofSearchControl.Root
+
+#print axioms ProofSearchControl.Paper.proofRadius_verified
+#print axioms ProofSearchControl.Paper.proofRadius_minimal
+#print axioms ProofSearchControl.Paper.candidateStringCount_closedForm
+#print axioms ProofSearchControl.Paper.no_uniform_bound_of_no_boolean_decider
+#print axioms ProofSearchControl.Paper.proofMass_le_one
+#print axioms ProofSearchControl.Paper.expectedAttempts_eq_tsum_failureTail
+#print axioms ProofSearchControl.Paper.failureTail_tendsto_zero
+#print axioms ProofSearchControl.Paper.failureTail_le_exp
+#print axioms ProofSearchControl.Paper.costAwareHittingLaw
+#print axioms ProofSearchControl.Paper.multiplicativeGuidanceLaw
+#print axioms ProofSearchControl.Paper.completenessReserve_positive
+#print axioms ProofSearchControl.Paper.completenessReserve_expectedAttempts_le
+#print axioms ProofSearchControl.Paper.adaptiveFailureProduct_le
+#print axioms ProofSearchControl.Paper.completenessReserve_failureTail_tendsto_zero
+#print axioms ProofSearchControl.Paper.completenessReserve_distance_le
+#print axioms ProofSearchControl.Paper.deterministicDovetailing_block_count
+#print axioms ProofSearchControl.Paper.portfolio_unbounded_work_reaches_radius
+#print axioms ProofSearchControl.Paper.oneUnitBalancingIdentity
+#print axioms ProofSearchControl.Paper.underfundedConjunct_strictlyImproves
+#print axioms ProofSearchControl.Paper.pairOptimal_pairwiseBalanced
+#print axioms ProofSearchControl.Paper.earnedEdge_preserves_Reachable

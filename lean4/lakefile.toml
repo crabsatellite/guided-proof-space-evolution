@@ -1,0 +1,19 @@
+name = "ProofSearchControl"
+version = "0.1.0"
+keywords = ["ai-mathematics", "proof-search", "resource-allocation"]
+defaultTargets = ["ProofSearchControl.Root"]
+packagesDir = "p"
+buildDir = "b"
+
+[leanOptions]
+pp.unicode.fun = true
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "v4.32.2"
+
+[[lean_lib]]
+name = "ProofSearchControl"
+weakLeanArgs = ["--trust=0", "-M4096"]
